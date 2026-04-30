@@ -1,0 +1,6 @@
+
+Equipo: R-MATRIZ-CORE | IP: 10.0.0.1 | VLAN: 1 | Capa: Acceso
+------------------------------
+
+Equipo:  R-CORE-RESPALDO | IP: 10.0.0.2 | VLAN: 1 | Capa: Acceso
+------------------------------

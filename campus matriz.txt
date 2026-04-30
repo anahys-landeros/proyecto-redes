@@ -1,0 +1,6 @@
+
+Equipo: SW-DISTRIBUCION-MATRIZ | IP: 172.16.10.1 | VLAN: 10 | Capa: Acceso
+------------------------------
+
+Equipo: SW-BACKBONE-MATRIZ | IP: 172.16.10.2 | VLAN: 10 | Capa: Acceso
+------------------------------

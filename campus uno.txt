@@ -1,0 +1,6 @@
+
+Equipo: SW-ACCESO-01  | IP: 192.168.20.10 | VLAN: 20 | Capa: Acceso
+------------------------------
+
+Equipo: SW-ACCESO-C1 | IP: 192.168.20.11  | VLAN: 20 | Capa: Acceso
+------------------------------

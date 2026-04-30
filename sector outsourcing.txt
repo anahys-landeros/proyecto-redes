@@ -1,0 +1,6 @@
+
+Equipo: SW-OUTSOURCING | IP: 10.10.10.2 | VLAN: 100 | Capa: Acceso
+------------------------------
+
+Equipo: PC-OUT-01  | IP:  10.10.10.10  | VLAN: 100 | Capa: Acceso
+------------------------------
